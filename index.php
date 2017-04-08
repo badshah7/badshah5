@@ -716,7 +716,7 @@ if (!is_dir('cokis')) {
 
      <div id="header">
 
-     <h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:90px;"><b> Miaan Nabeel </b></font></h2>
+     <h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:90px;"><b> Badshah & Tommy </b></font></h2>
 	<h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:50px;"><b><a href="https://facebook.com/BADSHAHI.COM.PK" target="_blank"> Find Me On FaceBook </a></b></font></h2>     
 
      <h2 class="description">
