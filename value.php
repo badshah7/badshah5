@@ -162,7 +162,7 @@ $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
 $site='🌞Great🍂Super🌻Awesome🍁🔜
-😘Add close💖Bot by Owner badshah🍁😘';
+😘Add close💖Poke karo🍁😘';
 $true=$ops.'
  '.$ips.'
  '.$site;
