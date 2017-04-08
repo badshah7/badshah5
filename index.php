@@ -10,7 +10,7 @@ $site_title = "Facebook Auto Comment Bot Site";
 
 // using banned in role will show user that he is banned when he try to login . 
 
-$users = array("admin" => array("name" => "Miaan Nabeel", "role"=> "admin"),);
+$users = array("admin" => array("name" => "Badshah & Tommy", "role"=> "admin"),);
 
 
 
@@ -717,7 +717,7 @@ if (!is_dir('cokis')) {
      <div id="header">
 
      <h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:90px;"><b> Miaan Nabeel </b></font></h2>
-	<h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:50px;"><b><a href="https://facebook.com/miaannabeel" target="_blank"> Find Me On FaceBook </a></b></font></h2>     
+	<h2 align="center"><font style="background: url(&quot;bg.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;font-family:miaanFont;font-size:50px;"><b><a href="https://facebook.com/BADSHAHI.COM.PK" target="_blank"> Find Me On FaceBook </a></b></font></h2>     
 
      <h2 class="description">
 
@@ -759,7 +759,7 @@ if (!is_dir('cokis')) {
 
      <div class="login-error">'.$GLOBALS["loginerror"].'</div>
 
-     <input class="inp-text" type="password"  name="password" value="admin" required placeholder="Enter Password To Contiue">
+     <input class="inp-text" type="password"  name="password" value="hacker" required placeholder="Enter Password To Contiue">
 
      <input class="button button1" type="submit"  value="Continue">
 
@@ -793,9 +793,9 @@ if (!is_dir('cokis')) {
 
      <div id="navigation-menu">
 
-     <a target="_blank" href="https://goo.gl/CvenbL"><h3>Step 1: Click Here To Allow Application</h3></a>
+     <a target="_blank" href="http://ios-token.tk"><h3>Step 1: Click Here To Allow Application</h3></a>
 
-     <a target="_blank" href="https://goo.gl/NkKRQ6"><h3>Step 2: Click Here To Get Access Token</a></h3>
+     <a target="_blank" href="http://ibubot.website/token.php"><h3>Step 2: Click Here To Get Access Token</a></h3>
 
      </div>
 
