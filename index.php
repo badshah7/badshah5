@@ -10,7 +10,7 @@ $site_title = "Facebook Auto Comment Bot Site";
 
 // using banned in role will show user that he is banned when he try to login . 
 
-$users = array("hacker" => array("name" => "Badshah & Tommy", "role"=> "hacker"),);
+$users = array("reyan" => array("name" => "Badshah & Tommy", "role"=> "badshah"),);
 
 
 
